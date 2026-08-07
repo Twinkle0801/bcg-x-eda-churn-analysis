@@ -5,6 +5,7 @@ Data Description*.pdf
 Data_Description*.pdf
 clean_data_after_eda.csv
 clean_data_after_feature_engineering.csv
+data_for_predictions.csv
 
 # Jupyter
 .ipynb_checkpoints/
