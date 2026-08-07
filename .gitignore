@@ -1,0 +1,16 @@
+# Forage-restricted data files
+client_data*.csv
+price_data*.csv
+Data Description*.pdf
+Data_Description*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
