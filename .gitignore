@@ -1,8 +1,10 @@
-# Forage-restricted data files
+# Forage-restricted data files — do not commit publicly
 client_data*.csv
 price_data*.csv
 Data Description*.pdf
 Data_Description*.pdf
+clean_data_after_eda.csv
+clean_data_after_feature_engineering.csv
 
 # Jupyter
 .ipynb_checkpoints/
